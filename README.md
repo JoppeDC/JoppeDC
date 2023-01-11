@@ -1,10 +1,6 @@
-<p>
-  <a href="(https://twitter.com/joppedc">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joppedc?label=Follow&logo=twitter">
-  </a>
-</p>
 
 - 🔭  Backend Developer at [Yappa](https://www.yappa.be/) — working with [Symfony](https://symfony.com/) related packages and PHP ecosystem in general.
+- 🔭  Freelance Developer [Joppe.dev](https://joppe.dev) — working with [Symfony](https://symfony.com/) and [Sylius](https://sylius.com/)
 
 - 📫  Find me on [Twitter](https://twitter.com/joppedc) and [LinkedIn](https://www.linkedin.com/in/joppedc/)
 
